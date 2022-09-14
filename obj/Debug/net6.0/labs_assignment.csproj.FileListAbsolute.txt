@@ -1,0 +1,15 @@
+C:\Users\Sushant\source\repos\labs_assignment\bin\Debug\net6.0\labs_assignment.exe
+C:\Users\Sushant\source\repos\labs_assignment\bin\Debug\net6.0\labs_assignment.deps.json
+C:\Users\Sushant\source\repos\labs_assignment\bin\Debug\net6.0\labs_assignment.runtimeconfig.json
+C:\Users\Sushant\source\repos\labs_assignment\bin\Debug\net6.0\labs_assignment.dll
+C:\Users\Sushant\source\repos\labs_assignment\bin\Debug\net6.0\labs_assignment.pdb
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\labs_assignment.csproj.AssemblyReference.cache
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\labs_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\labs_assignment.AssemblyInfoInputs.cache
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\labs_assignment.AssemblyInfo.cs
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\labs_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\labs_assignment.dll
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\refint\labs_assignment.dll
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\labs_assignment.pdb
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\labs_assignment.genruntimeconfig.cache
+C:\Users\Sushant\source\repos\labs_assignment\obj\Debug\net6.0\ref\labs_assignment.dll
